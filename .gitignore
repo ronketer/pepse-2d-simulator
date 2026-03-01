@@ -1,0 +1,10 @@
+# Compiled class files
+bin/
+out/
+
+# IDE settings
+.vscode/
+
+# Heavy Game Engine Files & Documentation
+DanoGameLab/
+
